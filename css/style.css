@@ -1,1 +1,25 @@
 /* Your custom styles */
+html,
+body,
+header,
+#intro{
+	height: 100%;
+}
+
+#intro{
+	background: url("../img/ccc.jpeg");
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size:cover;
+   background-size: cover: 
+}
+
+.view img{ width: 370px;
+	      height: 250px;
+
+}
+
+.view p{
+	padding-right: 8px;
+	padding-left: 8px;
+}
